@@ -9,7 +9,6 @@
   },
   
   "author": "Shivam Agrawal",
-  "license": "ISC",
   
   "dependencies": {
     "body-parser": "^1.17.2",
